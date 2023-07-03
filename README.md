@@ -4,6 +4,6 @@ A countdown website is a website that displays a countdown timer to a specific d
 
 They can also be used to track personal milestones, such as birthdays, anniversaries, or retirement dates.
 
-Create multiple countdowns for any event or date,
-Set reminders for upcoming events,
-Share your countdowns with friends and family.
+-Create multiple countdowns for any event or date,
+-Set reminders for upcoming events,
+-Share your countdowns with friends and family.
