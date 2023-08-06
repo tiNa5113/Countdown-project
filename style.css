@@ -76,7 +76,7 @@ button:focus {
   background-color: #f7861c;
 }
 button{
-    background-color: orangered;
+    background-color: rgb(255, 69, 0);
 
 }
 .countdown-container{
