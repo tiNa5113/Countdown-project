@@ -3,7 +3,7 @@ const hoursEl = document.getElementById("hours");
 const minsEl = document.getElementById("mins");
 const secondsEl = document.getElementById("seconds");
 
-const postdate = "18 nov 2023";
+const postdate = "16 jan 2024";
 
 function countdown() {
   const postdateD = new Date(postdate);
