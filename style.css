@@ -6,8 +6,8 @@
 }
 
 body{
-    background-image: url("https://images.pexels.com/photos/6878175/pexels-photo-6878175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
-    background-repeat: no-repeat;
+    background-image: url("https://images.pexels.com/photos/1054713/pexels-photo-1054713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat//;
     background-size: cover;
     font-family: 'DM sans',sans-serif;
     display: flex;
