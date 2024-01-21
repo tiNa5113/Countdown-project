@@ -123,3 +123,13 @@ footer{
     left: 0;
     text-align: center;
 }
+
+#logo{
+    text-decoration: none;
+    display: flex;
+}
+.f-navbar{
+    text-decoration: none;
+    display: flex;
+    
+}
