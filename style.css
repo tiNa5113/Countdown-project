@@ -127,6 +127,8 @@ footer{
 #logo{
     text-decoration: none;
     display: flex;
+    font-weight: bold;
+    font-size: 2rem;
 }
 .f-navbar{
     text-decoration: none;
